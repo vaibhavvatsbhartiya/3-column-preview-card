@@ -31,7 +31,7 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 
 ## Deploying my project
-- [GitHub Pages](https://pages.github.com/)
+- [GitHub Pages](https://vaibhavvatsbhartiya.github.io/3-column-preview-card/)
 
 # Desktop design
 ![image](https://github.com/vaibhavvatsbhartiya/3-column-preview-card/assets/76244950/64b0819c-a5fc-4273-83af-5646de5956eb)
