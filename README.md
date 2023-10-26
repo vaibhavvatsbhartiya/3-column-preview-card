@@ -33,4 +33,9 @@ There is also a `style-guide.md` file containing the information you'll need, su
 ## Deploying my project
 - [GitHub Pages](https://pages.github.com/)
 
+# Desktop design
+![image](https://github.com/vaibhavvatsbhartiya/3-column-preview-card/assets/76244950/64b0819c-a5fc-4273-83af-5646de5956eb)
+# Mobile view
+![image](https://github.com/vaibhavvatsbhartiya/3-column-preview-card/assets/76244950/0ce0da09-dba5-4a39-a981-fb0e5a1f1c55)
 
+ i dont know vite and tailwind css ko kaise config kru so pics laga d
